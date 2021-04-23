@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Task Manager</string>
+    <string name="enable_usage_stats_ok_button">OK</string>
+    <string name="snackbar_process_killed_message">Process killed if running</string>
+    <string name="process_type_recent">Recent</string>
+    <string name="enable_usage_stats_title">Enable permission</string>
+    <string name="enable_usage_stats_message">Click OK to go to settings to enable the permission necessary to run this app.</string>
+</resources>
